@@ -1,6 +1,6 @@
 # to-do-list-react
 
-## Here the [LINK](https://rococo-beijinho-6641b8.netlify.app/)
+## Here the [LINK](https://to-do-list-vyborniy.netlify.app/)
 
 ## The tech stack is:
 
@@ -35,3 +35,4 @@ Your app is ready to be deployed!
 
 Author:
 Yevgen Vybornyi
+
